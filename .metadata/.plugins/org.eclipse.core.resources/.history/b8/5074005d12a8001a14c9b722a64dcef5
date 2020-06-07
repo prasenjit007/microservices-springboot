@@ -1,0 +1,9 @@
+package com.microservices.dao;
+
+
+//80 video
+import com.microservices.bean.ExchangeValue;
+
+public interface ExchangeValueRepository  {
+
+}

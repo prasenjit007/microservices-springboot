@@ -1,0 +1,9 @@
+package com.microservices.dao;
+
+
+
+import com.microservices.bean.ExchangeValue;
+
+public interface ExchangeValueRepository  {
+
+}

@@ -1,0 +1,6 @@
+package com.microservices.bean;
+
+
+public class ExchangeValue {
+
+}

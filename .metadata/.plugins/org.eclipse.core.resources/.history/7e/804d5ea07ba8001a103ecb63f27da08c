@@ -1,0 +1,8 @@
+package com.microservices.feign;
+
+import org.springframework.cloud.openfeign.FeignClient;
+
+@FeignClient(name = "currency-exchange-service", url = "")
+public interface CurrencyExchangeServiceProxy {
+
+}
